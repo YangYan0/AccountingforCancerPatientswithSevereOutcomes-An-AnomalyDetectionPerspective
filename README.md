@@ -7,6 +7,10 @@ This repository hosts the code used in the research paper "Accounting for Cancer
 
 The paper implements ten different unsupervised anomaly detection models from the ADBench toolkit. These models have been applied to evaluate their effectiveness in identifying high-risk patient outcomes based on PROs.
 
+## Poster
+
+![PDF Version for Poster](https://github.com/YangYan0/AccountingforCancerPatientswithSevereOutcomes-An-AnomalyDetectionPerspective/blob/main/poster.pdf)
+
 ## Citation
 
 Please cite our work if it inspires or contributes to your research:
