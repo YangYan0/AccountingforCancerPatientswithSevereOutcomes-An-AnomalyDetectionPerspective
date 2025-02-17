@@ -3,6 +3,10 @@
 
 This repository hosts the code used in the research paper "Accounting for Cancer Patients with Severe Outcomes: An Anomaly Detection Perspective," accepted at the IEEE 2024 Big Data PhD Forum. The study explores the application of 10 unsupervised anomaly detection approaches from ADBench to Patient-Reported Outcomes (PROs) datasets, aiming to identify severe outcomes in cancer patients.
 
+## Paper
+
+https://ieeexplore.ieee.org/abstract/document/10825503
+
 ## Methods
 
 The paper implements ten different unsupervised anomaly detection models from the ADBench toolkit. These models have been applied to evaluate their effectiveness in identifying high-risk patient outcomes based on PROs.
