@@ -22,9 +22,11 @@ Please cite our work if it inspires or contributes to your research:
 ```
 @inproceedings{yan2024accounting,
   title={Accounting for Cancer Patients with Severe Outcomes: An Anomaly Detection Perspective},
-  author={Yang Yan et al.},
-  booktitle={IEEE 2024 Big Data PhD Forum},
-  year={2024}
+  author={Yan, Yang and Lominska, Christopher and Gan, Gregory N and Gao, Hao and Chen, Zhong},
+  booktitle={2024 IEEE International Conference on Big Data (BigData)},
+  pages={8253--8255},
+  year={2024},
+  organization={IEEE}
 }
 ```
 
